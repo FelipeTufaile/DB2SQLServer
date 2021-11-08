@@ -1,0 +1,7 @@
+README.md
+setup.py
+postgresql2sqlserver.egg-info/PKG-INFO
+postgresql2sqlserver.egg-info/SOURCES.txt
+postgresql2sqlserver.egg-info/dependency_links.txt
+postgresql2sqlserver.egg-info/requires.txt
+postgresql2sqlserver.egg-info/top_level.txt
